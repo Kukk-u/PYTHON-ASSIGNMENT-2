@@ -1,0 +1,1 @@
+using for loop which iterates from 1 to 50 and give sum as output.

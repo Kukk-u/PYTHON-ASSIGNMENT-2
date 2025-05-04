@@ -1,0 +1,1 @@
+it takes a number as input....and tell us that is it even odd in output.
